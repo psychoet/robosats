@@ -1,3 +1,15 @@
+---
+layout: single
+title: How to Use
+permalink: /read/kr/
+toc: true
+toc_sticky: true
+excerpt: "RoboSats P2P 거래 플랫폼 사용 설명서"
+sidebar:
+  title: '<img id="side-icon-verybig" src="/assets/vector/chalkboard-user.svg"/>How to use'
+  nav: tutorial
+---
+
 # Robosats
 
 Robosats는 (주로) Tor network를 이용하여 익명성을 강화하면서, 다양한 결제 방식을 제공하는 trustless p2p 비트코인 거래 플랫폼이다. 장점으로는 막강한 익명성과 사기/먹튀 방지를 위한 담보 설정이 있으며, 단점으로는 모바일 환경에서는 tor browser에 익숙하지 않은 사람들에게는 많이 불편할 수 있다는 점이다.
